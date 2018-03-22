@@ -7,7 +7,6 @@
 
         <!-- navigation bar, top left corner drop down, position fixed -->
 
-        <!--Slider of image of students, round edge box style, slider of each student-->
         <article>
             
              <h2>Oliver Striker</h2>

@@ -1,13 +1,14 @@
-<?php include "inc/html-top.inc";?>
-    
-    <body>
-        <section class = "banner">
-            <?php include "inc/header.inc"; ?>
-            <?php include "inc/nav.inc"; ?>
-        </section> <!--.banner-->
+<!-- include html top for links and doctype -->
+<!-- We will be using Z pattern -->
 
-        <div class = "container">
-        
+    <body>
+
+        <!--Business/design, Old School, fonts should be modern-old/formal-->
+
+        <!--header positoined fixed to allow content to still be visible when scrolling-->
+
+        <!-- navigation bar, top left corner drop down, position fixed -->
+
         <article>
             
              <h2>Xiao Cheng</h2>
@@ -49,10 +50,9 @@
                 
         </aside>
 
-        <?php include "inc/footer.inc";?>
 
-        </div><!--.container -->
+        <!--Include aside element for similarities between three and one person different: Oliver, Zubair, and Jimmy are all males studying economics. While Xiao is a female studying Computer Science-->
 
-        <?php include "inc/scripts.inc";?>
+        <!--Include footer and js-->
     </body>
 </html>

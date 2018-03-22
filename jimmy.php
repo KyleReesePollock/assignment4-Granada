@@ -1,19 +1,19 @@
-<?php include "inc/html-top.inc";?>
-    
+<!-- include html top for links and doctype -->
+<!-- We will be using Z pattern -->
     <body>
-        <section class = "banner">
-            <?php include "inc/header.inc"; ?>
-            <?php include "inc/nav.inc"; ?>
-        </section> <!--.banner-->
+        <!--Business/design, Old School, fonts should be modern-old/formal-->
 
-        <div class = "container">
-        
+        <!--header positoined fixed to allow content to still be visible when scrolling-->
+
+        <!-- navigation bar, top left corner drop down, position fixed -->
+
         <article>
+
             <h2>Jimmy Yang</h2>
 
                 <div class="info">
+                     <!--list next to the picture-->
                     <ul class="basic-info">
-                    <!--no bullet points, just a list next to the picture-->
                     <ul>
                         <li>Major: Economics and Global Perspective History</li>
                         <li>Graduation Year: 2020</li>
@@ -50,12 +50,12 @@
                 <p>I am a brother of Beta Theta Pi, and was the only member of the Fall 2017 Pledge Class. I am currently on its community-programming committee. I am a founding member of Beatbox Collective, a new club on the U of R dedicated to beatboxing. I also like to travel, meditate, watch online TV shows, and play video games. My favorite TV shows are Narcos, the Crown, the Americans, and Silicon Valley.</p>
                 
                 <p>Although my family and I have moved around a lot in our lives, I currently consider my hometown to be Fargo, North Dakota. It's located in Cass County along the Minnesota/North Dakota border, right on the west bank of the Red River of the North. It is about a four hour drive from Minneapolis, Minnesota. According to the 2016 Census, Fargo had a population of 120,762. The city was founded in 1871. Its current mayor is Tim Mahoney.</p>
-        </aside>
+            
+            </aside>
 
-        <?php include "inc/footer.inc";?>
 
-        </div><!--.container -->
-        
-        <?php include "inc/scripts.inc";?>
+        <!--Include aside element for similarities between three and one person different: Oliver, Zubair, and Jimmy are all males studying economics. While Xiao is a female studying Computer Science-->
+
+        <!--Include footer and js-->
     </body>
 </html>
