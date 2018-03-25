@@ -1,30 +1,18 @@
 <!-- include html top for links and doctype -->
-<!-- We will be using Z pattern -->
     <body>
-        <!--Business/design, Old School, fonts should be modern-old/formal-->
+        <!--header-->
 
-        <!--header positoined fixed to allow content to still be visible when scrolling-->
+        <!-- navigation bar-->
 
-        <!-- navigation bar, top left corner drop down, position fixed -->
-
-        <article>
-
-            <h2>Zubair Aziz</h2>
-
+        <article> <!--Article-->
+            <h2>Zubair Aziz- Economics</h2>
+            <!-- pic of Zubair -->
             <div class="info">
                 <!--no bullet points, just a list next to the picture-->
                 <ul>
-                    <li>Major: Economics</li>
                     <li>Graduation Year: 2019</li>
                     <li>Hometown: Malaysia</li>
                 </ul>
-            </div>
-
-            <div class="pic">
-                        <!--images of place where each person is from, round-->
-                <figure class="place"> 
-                    <img class="scale" src="images/bl.jpg" alt="Bei Lu Picture">
-                </figure>
             </div>
 
             <div class="article-info">
@@ -42,7 +30,7 @@
          </div>   
         </article>
 
-        <!--Intitial role-->    
+        <!--Aside-->    
         <aside>
             <h3>Miscellaneous</h3>
                 <p>I'm involved in some extra-curricular activities such as Alpha Kappa Psi, the professional business fraternity; and Grass Roots Soccer, a health organization that uses the power of soccer to educate, inspire, and mobilize young people to lead healthier lives. These two organizations have helped me develop so much as a student, where Alpha Kappa Psi has helped me develop my professional skills tremendously, and Grass Roots Soccer has given me a great opportunity to give back to the community.</p>
@@ -52,10 +40,6 @@
                 <p>However, when I’m looking for a change of pace, I usually go play basketball. It’s one of the few sports that I find very enjoyable, not just to watch, but also play. I started playing basketball in middle school, and have enjoyed playing it ever since.</p>
                 
         </aside>
-
-
-        <!--Include aside element for similarities between three and one person different: Oliver, Zubair, and Jimmy are all males studying economics. While Xiao is a female studying Computer Science-->
-
         <!--Include footer and js-->
     </body>
 </html>

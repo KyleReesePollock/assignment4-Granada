@@ -1,34 +1,20 @@
 <!-- include html top for links and doctype -->
-<!-- We will be using Z pattern -->
-
     <body>
+        <!--header-->
 
-        <!--Business/design, Old School, fonts should be modern-old/formal-->
+        <!-- navigation bar-->
 
-        <!--header positoined fixed to allow content to still be visible when scrolling-->
-
-        <!-- navigation bar, top left corner drop down, position fixed -->
-
-        <article>
-            
-             <h2>Xiao Cheng</h2>
-
+        <article> <!-- Article-->
+             <h2>Xiao Cheng- Computer Science</h2>
+             <!-- pic of Xiao -->
                 <div class="info">
                     <!--no bullet points, just a list next to the picture-->
                     <ul class="basic-info">
-                        <li>Major: Computer Science</li>
                         <li>Graduation Year: 2019</li>
                         <li>Hometown: China</li>
                     </ul>
                 </div>
 
-                <div class="pic">
-                    <!--images of place where each person is from, round-->
-                    <figure class="place"> 
-                        <img class="scale" src="images/aa.jpg" alt="Alejandro Abreu Picture">
-                    </figure>
-                </div>
-            
             <div class="article-info">
 
             <!--About and their work experience, two seperate headings-->
@@ -43,16 +29,12 @@
         </div>       
         </article>
 
-        <!--Intitial role-->    
+        <!--Aside-->    
         <aside>
             <h3>Miscellaneous</h3>
                 <p>I am originally from Changsha, Hu'nan, China, a city that is famous for its spicy food. But I spent most of my life in Guangzhou, Canton. It is where the cantonese dim sum comes from. I have a very strong emotional attachment to Guangzhou and I feel very proud every time I talk about it. There is a slang in Chinese called "Shi Zai Guang Zhou", which means that "If you want the greatest food, come to Guangzhou". There is no place I feel more like home in the world. (P.S. it never snows in Guangzhou. Most of the time during winter, the average temperature is 59 Fahrenheit. So you could imagine how hard it is for me to survive in Rochester.)</p>
                 
         </aside>
-
-
-        <!--Include aside element for similarities between three and one person different: Oliver, Zubair, and Jimmy are all males studying economics. While Xiao is a female studying Computer Science-->
-
         <!--Include footer and js-->
     </body>
 </html>

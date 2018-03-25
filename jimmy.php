@@ -1,38 +1,23 @@
 <!-- include html top for links and doctype -->
-<!-- We will be using Z pattern -->
     <body>
-        <!--Business/design, Old School, fonts should be modern-old/formal-->
+        <!--header-->
 
-        <!--header positoined fixed to allow content to still be visible when scrolling-->
+        <!-- navigation bar-->
 
-        <!-- navigation bar, top left corner drop down, position fixed -->
-
-        <article>
-
-            <h2>Jimmy Yang</h2>
-
+        <article> <!--Article-->
+            <h2>Jimmy Yang- Economics</h2>
+            <!-- pic of Jimmy -->
                 <div class="info">
                      <!--list next to the picture-->
                     <ul class="basic-info">
                     <ul>
-                        <li>Major: Economics and Global Perspective History</li>
                         <li>Graduation Year: 2020</li>
                         <li>Hometown: Fargo, ND</li>
                     </ul>
                 </div>
 
-            <div class="pic">
-                <!--images of place where each person is from, round-->
-                <figure class="place"> 
-                    <img class="scale" src="images/cb.jpg" alt="Casey Brentnall Picture">
-                </figure>
-            </div>
-
              <div class="article-info">
 
-
-
-            <!--About and their work experience, two seperate headings-->
             <h3>About</h3>
                 <p>Hello! My name is Jimmy Yang. I am a sophomore and I am double majoring in Economics and Global Perspectives History. I am from a quaint small town called Fargo, ND. </p>
 
@@ -44,7 +29,7 @@
         </div>
         </article>
 
-        <!--Intitial role-->    
+        <!--Aside-->    
         <aside>
             <h3>Miscellaneous</h3>
                 <p>I am a brother of Beta Theta Pi, and was the only member of the Fall 2017 Pledge Class. I am currently on its community-programming committee. I am a founding member of Beatbox Collective, a new club on the U of R dedicated to beatboxing. I also like to travel, meditate, watch online TV shows, and play video games. My favorite TV shows are Narcos, the Crown, the Americans, and Silicon Valley.</p>
@@ -53,9 +38,7 @@
             
             </aside>
 
-
-        <!--Include aside element for similarities between three and one person different: Oliver, Zubair, and Jimmy are all males studying economics. While Xiao is a female studying Computer Science-->
-
         <!--Include footer and js-->
+
     </body>
 </html>

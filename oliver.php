@@ -1,30 +1,18 @@
 <!-- include html top for links and doctype -->
-<!-- We will be using Z pattern -->
     <body>
-        <!--Business/design, Old School, fonts should be modern-old/formal-->
+        <!--header-->
 
-        <!--header positoined fixed to allow content to still be visible when scrolling-->
+        <!-- navigation bar-->
 
-        <!-- navigation bar, top left corner drop down, position fixed -->
-
-        <article>
-            
-             <h2>Oliver Striker</h2>
-
+        <article> <!--Article-->
+             <h2>Oliver Striker- Economics</h2>
+              <!-- pic of Oliver-->
                 <div class="info">
                     <!--list next to the picture-->
                     <ul class="basic-info">
-                        <li>Major: Economics</li>
                         <li>Graduation Year: 2019</li>
                         <li>Hometown: Connecticut</li>
                     </ul>
-                </div>
-
-                <div class="pic">
-                    <!--images of place where each person is from, round-->
-                    <figure class="place"> 
-                        <img class="scale" src="images/aa.jpg" alt="Alejandro Abreu Picture">
-                    </figure>
                 </div>
             
             <div class="article-info">
@@ -43,17 +31,13 @@
         </div>       
         </article>
 
-        <!--Miscellaneous should be a sepearate text box from above-->  
+        <!--aside-->  
         <aside>
             <h3>Miscellaneous</h3>
                 <p>At school, I have taken Elements of Probability and Statistics, Introduction to Debate, Introduction to Economics, Freshman Writing, Reporting and Writing the News, Honors Intermediate Microeconomics, Financial Accounting, Web Design and Development, Feature Writing, Intermediate Macroeconomics, Managerial Accounting, Financial Management, Economic Theory of Organizations, Introduction to Anthropology, Introduction to Python, Creative Computing, Business Law, Introduction to Psychology, and Economics of Sports. I am also working as a Teaching Assistant this semester for Economics of Sports. Outside of school, I am a huge sports fan, and particularly have an interest in basketball. I love playing pick-up and intramural basketball whenever I have free time, and I am a huge fan of the Boston Celtics. I became a Celtics fan in 2003, when my favorite player in Backyard Basketball was Paul Pierce (the Celtics star small forward).</p>
                 
                 <p>From there, I asked for a Paul Pierce jersey for my 7th birthday and wore it to school almost every day in 1st grade. From there, the rest has been history. .I am also a big fan of college basketball, and enjoy rooting for both the University of Connecticut and Syracuse. Uconn because I am from Connecticut and attended the basketball camp at Uconn for many years, and Syracuse because the school is my mom’s alma mater. I am also on the Club Volleyball team, I am a member of Meliora Capital Management (a student investment fund on campus), and a member of the University of Rochester Investment Banking Club. I also love to ski, play fantasy sports (mostly football and basketball), and travel (whether with family or with friends). Unfortunately, I tore my ACL this past summer and have not been able to participate in any athletic endeavors as a result, though I have just recently finished my physical therapy and will start playing basketball again very soon.</p>
         </aside>
-
-
-        <!--Include aside element for similarities between three and one person different: Oliver, Zubair, and Jimmy are all males studying economics. While Xiao is a female studying Computer Science-->
-
         <!--Include footer and js-->
     </body>
 </html>
