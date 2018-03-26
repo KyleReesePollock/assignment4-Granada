@@ -25,7 +25,7 @@
                 <div class="pic">
                     <!--images of place where each person is from, round-->
                     <figure class="place"> 
-                        <img class="scale" src="images/aa.jpg" alt="Alejandro Abreu Picture">
+                        <img class="scale" src="images/xiao.jpg" alt="Xiao">
                     </figure>
                 </div>
 
@@ -55,6 +55,6 @@
         </div><!--.container -->
 
         <?php include "inc/scripts.inc";?>
-        
+
     </body>
 </html>
