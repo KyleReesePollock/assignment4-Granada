@@ -63,16 +63,12 @@ IA Colophon:
 	footer. centered. bottom of page. 
 
 	Contacts: 
-	So for the web form I was thinking of making a comments page. Where students can put their name and a comment about the students in the page. Their review will be shown at the bottom of the page under the web form entry. 
+	So for the web form I was thinking of making a comments page. Where students can put their info and give answer some question relating to our website such as what is your major.
 
 	top doc/links/header
 
 	Consistent with home page style design. Student’s profile pic under header above body content. 
 
-	We will have two entry boxes: Name and Message. followed by a submit box. 
-
-	Aside element will be at the very bottom, titled reviews: Entry will pop up at the bottom of the page. 
+	Aside element will be at the very bottom, for user to go back to homepage: Entry will pop up at the bottom of the page. 
 
 	footer. centered. bottom of page.
-
-
