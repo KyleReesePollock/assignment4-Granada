@@ -25,11 +25,11 @@
 
 					<fieldset>
 						<legend><h3>What is your major? </h3></legend>
-							<input type="checkbox" name="Economics" id="Economics" value="Economics">
+							<input type="radio" name="Economics" id="Economics" value="Economics">
 							<label for="Ecoonomics">Economics?</label>
-							<input type="checkbox" name="ComputerScience" id="ComputerScience" value="ComputerScience">
+							<input type="radio" name="ComputerScience" id="ComputerScience" value="ComputerScience">
 							<label for="ComputerScience">Computer Science?</label>
-							<input type="checkbox" name="Neither" id="Neither" value="Neither">
+							<input type="radio" name="Neither" id="Neither" value="Neither">
 							<label for="Neither">Neither?</label>
 							<label for="textarea">Enter your major if neither?</label>
 							<textarea name="textarea" cols="50" rows="8" id="textarea">
