@@ -3,9 +3,9 @@ IA: Isaiah Pule
 Design: Kyle Pollock
 Code: Jonathan Hirsch
 
-Website url: 
-Github url:
-
+Website url: http://urcsc174.org/assignment04/Granada/
+Github url: https://github.com/isaiahnkpule/assignment4-Granada
+Name: Assignment4
 IA Colophon: 
 
 	Basic Page Layout:
