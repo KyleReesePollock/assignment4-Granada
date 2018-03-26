@@ -35,15 +35,8 @@
 							<textarea name="textarea" cols="50" rows="8" id="textarea">
 							</textarea>
 					</fieldset>
-					<input type="submit" value="Send off by the Speed of Light!">
+					<input type="submit" value="Submit">
 					</form>
-
-				<aside>
-					<h2>Thank You!</h2>
-
-					<p>To go back, click: </p>
-					<a class="Home Page" href = "index.php">Here</a></p>	
-				</aside>
 
 			</article>
 
