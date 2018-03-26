@@ -1,8 +1,18 @@
 <!-- include html top for links and doctype -->
+
+<?php include "inc/html-top.inc";?>
+    
     <body>
         <!--header-->
 
         <!-- navigation bar-->
+
+        <section class = "banner">
+            <?php include "inc/header.inc"; ?>
+            <?php include "inc/nav.inc"; ?>
+        </section>
+
+        <div class = "container">
 
         <article> <!--Article-->
             <h2>Jimmy Yang- Economics</h2>
@@ -14,6 +24,13 @@
                         <li>Graduation Year: 2020</li>
                         <li>Hometown: Fargo, ND</li>
                     </ul>
+                </div>
+
+                <div class="pic">
+                    <!--images of place where each person is from, round-->
+                    <figure class="place"> 
+                        <img class="scale" src="images/jimmy.jpg" alt="Jimmy">
+                    </figure>
                 </div>
 
              <div class="article-info">
@@ -39,6 +56,11 @@
             </aside>
 
         <!--Include footer and js-->
+        <?php include "inc/footer.inc";?>
 
+        </div><!--.container -->
+
+        <?php include "inc/scripts.inc";?>
+        
     </body>
 </html>

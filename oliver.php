@@ -1,8 +1,17 @@
 <!-- include html top for links and doctype -->
+<?php include "inc/html-top.inc";?>
+
     <body>
         <!--header-->
 
         <!-- navigation bar-->
+
+        <section class = "banner">
+            <?php include "inc/header.inc"; ?>
+            <?php include "inc/nav.inc"; ?>
+        </section>
+
+        <div class = "container">
 
         <article> <!--Article-->
              <h2>Oliver Striker- Economics</h2>
@@ -15,6 +24,13 @@
                     </ul>
                 </div>
             
+            <div class="pic">
+                    <!--images of place where each person is from, round-->
+                    <figure class="place"> 
+                        <img class="scale" src="images/oliver.jpg" alt="Oliver">
+                    </figure>
+                </div>
+
             <div class="article-info">
 
             <!--About and their work experience, two seperate headings-->
@@ -39,5 +55,11 @@
                 <p>From there, I asked for a Paul Pierce jersey for my 7th birthday and wore it to school almost every day in 1st grade. From there, the rest has been history. .I am also a big fan of college basketball, and enjoy rooting for both the University of Connecticut and Syracuse. Uconn because I am from Connecticut and attended the basketball camp at Uconn for many years, and Syracuse because the school is my mom’s alma mater. I am also on the Club Volleyball team, I am a member of Meliora Capital Management (a student investment fund on campus), and a member of the University of Rochester Investment Banking Club. I also love to ski, play fantasy sports (mostly football and basketball), and travel (whether with family or with friends). Unfortunately, I tore my ACL this past summer and have not been able to participate in any athletic endeavors as a result, though I have just recently finished my physical therapy and will start playing basketball again very soon.</p>
         </aside>
         <!--Include footer and js-->
+        <?php include "inc/footer.inc";?>
+
+        </div><!--.container -->
+
+        <?php include "inc/scripts.inc";?>
+        
     </body>
 </html>

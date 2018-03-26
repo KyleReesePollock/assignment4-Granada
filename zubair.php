@@ -1,10 +1,21 @@
 <!-- include html top for links and doctype -->
+<?php include "inc/html-top.inc";?>
+
     <body>
+
         <!--header-->
 
         <!-- navigation bar-->
 
+        <section class = "banner">
+            <?php include "inc/header.inc"; ?>
+            <?php include "inc/nav.inc"; ?>
+        </section>
+
+        <div class = "container">
+
         <article> <!--Article-->
+            
             <h2>Zubair Aziz- Economics</h2>
             <!-- pic of Zubair -->
             <div class="info">
@@ -14,6 +25,13 @@
                     <li>Hometown: Malaysia</li>
                 </ul>
             </div>
+
+            <div class="pic">
+                    <!--images of place where each person is from, round-->
+                    <figure class="place"> 
+                        <img class="scale" src="images/aa.jpg" alt="Alejandro Abreu Picture">
+                    </figure>
+                </div>
 
             <div class="article-info">
 
@@ -41,5 +59,11 @@
                 
         </aside>
         <!--Include footer and js-->
+        <?php include "inc/footer.inc";?>
+
+        </div><!--.container -->
+
+        <?php include "inc/scripts.inc";?>
+        
     </body>
 </html>

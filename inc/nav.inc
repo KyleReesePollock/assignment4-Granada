@@ -19,7 +19,7 @@
 		<a href="oliver.php">Oliver Stricker</a>
 	</li>
 	<li>
-		<a href="contacts.php">Contact Us</a>
+		<a href="contacts.php">Contact</a>
 	</li>
 </ul>
 

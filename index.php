@@ -1,10 +1,26 @@
 <!-- include html top for links and doctype -->
+<?php include "inc/html-top.inc";?>
+
 	<body>
 		<!--header-->
 
 		<!-- navigation bar-->
 
+		<section class = "banner">
+            <?php include "inc/header.inc"; ?>
+            <?php include "inc/nav.inc"; ?>
+        </section>
+
 		<!--Slider-->
+
+		<div class= "container" style="z-index: 1;">
+
+
+		<div class = "slider" style="z-index: -1;"> <!--slider of images of place where each person is from-->
+        	<img src="images/aa.jpg" alt="Alejandro Abreu Picture">
+			<img src="images/cb.jpg" alt="Casey Brentnall Picture">
+			<img src="images/bl.jpg" alt="Bei Lu Picture">
+		</div>
 
 		<article> <!-- Article-->
 		
@@ -38,6 +54,10 @@
 		</article>
 
 		<!--Aside-->
+	<?php include "inc/footer.inc"; ?>
+		</div> <!--.container -->
+		<?php include "inc/scripts.inc"; ?>
+	</body>
 
 		<!--Include footer and js-->
 	</body>
