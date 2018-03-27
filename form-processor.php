@@ -7,7 +7,7 @@
 	$connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
 
 	// you really should escape all strings
-	$name = Trim(stripslashes($_POST['name']));
+	$fname = Trim(stripslashes($_POST['fname']));
 	$lname = Trim(stripslashes($_POST['lname']));
 	$email = Trim(stripslashes($_POST['email']));
 	$major = $_POST['major'];
@@ -15,7 +15,7 @@
 
 
 	// step2: Perform a Database Query
-	$query = "INSERT INTO urcscon3_granad (name, lname, email, major, textarea) VALUES ('$name', '$lname', '$email', '$major', '$textarea')";
+	$query = "INSERT INTO urcscon3_granad (fname, lname, email, major, textarea) VALUES ('$fname', '$lname', '$email', '$major', '$textarea')";
 	$result = mysqli_query($connection, $query);
 ?>
 
