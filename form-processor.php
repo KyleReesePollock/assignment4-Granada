@@ -26,6 +26,14 @@
 
 		</header>
 			<div class="container">
+				
+				<?php
+					if ($result) {
+						echo "Success! The query did not error out";
+					} else {
+						die ("Database query failed!");}
+ 				?>
+
 			<section>
 				
 				<h2>Thank You!</h2>
