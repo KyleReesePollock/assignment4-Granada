@@ -91,3 +91,9 @@ Navbar is brown as was designated by the IA. I searched online for good combinat
 - Ubuntu is used for Banner text and Xiao's headers. Ubuntu is a modern sans-serif font that lends itself well to a tech theme. Roboto was used for the main text of Xiao's sections, it is also a modern sans-serif font that is a little less fancy than Ubuntu, so it is more readable and better for lots of text. Didot was used for the Economics majors, as it is a serif font that lends itself to a business theme while looking much better than Times and Garamond. I used larger fonts for banner text and headers.
 
 **Layout** - CSS grid layout was used as implemented by the previous team. I feel that the grid layout lends itself well to the webpage, as well as making it easier for me to create breaks in proximity (such as on the index page) in order to highlight Xiao from the rest of the students.
+
+## Coder Colophon - Jonathan Hirsch
+
+There are no validation errors that I came across.  Futhermore, there are no bugs at all from what I can tell.
+
+Our database works correctly and gathers the information provided to it.
