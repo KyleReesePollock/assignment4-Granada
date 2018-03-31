@@ -1,7 +1,6 @@
 <!-- include html top for links and doctype -->
-
 <?php include "inc/html-top.inc";?>
-    
+
     <body>
         <!--header-->
 
@@ -15,20 +14,25 @@
         <div class = "container">
 
         <article> <!--Article-->
-            <h2>Jimmy Yang- Economics</h2>
+            <h2>Jimmy Yang - Economics</h2>
             <!-- pic of Jimmy -->
                 <div class="info">
                      <!--list next to the picture-->
                     <ul class="basic-info">
-                    <ul>
-                        <li>Graduation Year: 2020</li>
-                        <li>Hometown: Fargo, ND</li>
+                        <li>
+                          <h3>Graduation Year</h3>
+                          <p>2020</p>
+                        </li>
+                        <li>
+                          <h3>Hometown</h3>
+                          <p>Fargo, ND</p>
+                        </li>
                     </ul>
                 </div>
 
                 <div class="pic">
                     <!--images of place where each person is from, round-->
-                    <figure class="place"> 
+                    <figure class="place">
                         <img class="scale" src="images/jimmy.jpg" alt="Jimmy">
                     </figure>
                 </div>
@@ -46,13 +50,13 @@
         </div>
         </article>
 
-        <!--Aside-->    
+        <!--Aside-->
         <aside>
             <h3>Miscellaneous</h3>
                 <p>I am a brother of Beta Theta Pi, and was the only member of the Fall 2017 Pledge Class. I am currently on its community-programming committee. I am a founding member of Beatbox Collective, a new club on the U of R dedicated to beatboxing. I also like to travel, meditate, watch online TV shows, and play video games. My favorite TV shows are Narcos, the Crown, the Americans, and Silicon Valley.</p>
-                
+
                 <p>Although my family and I have moved around a lot in our lives, I currently consider my hometown to be Fargo, North Dakota. It's located in Cass County along the Minnesota/North Dakota border, right on the west bank of the Red River of the North. It is about a four hour drive from Minneapolis, Minnesota. According to the 2016 Census, Fargo had a population of 120,762. The city was founded in 1871. Its current mayor is Tim Mahoney.</p>
-            
+
             </aside>
 
         <!--Include footer and js-->
@@ -61,6 +65,6 @@
         </div><!--.container -->
 
         <?php include "inc/scripts.inc";?>
-        
+
     </body>
 </html>
