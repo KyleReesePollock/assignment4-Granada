@@ -1,5 +1,5 @@
 .banner{
-    background-color: #1D3557;
+  background-color: #583E2E;
 	position: fixed;
 	top:0;
 	left:0;
@@ -7,11 +7,13 @@
 	width: 100%;
 	display: block;
 	padding: 0px 10px 10px 5px;
-	
-	font-family: 'Montserrat', sans-serif;
+
+	font-family: 'Ubuntu', sans-serif;
 }
 
 .logo {
+  height: 50px;
+  width: 50px;
 	padding: 0px 0px 0px 0px;
 	vertical-align: top;
 	float: left;
@@ -20,15 +22,8 @@
 .title{
 	letter-spacing: 5px;
 	position: relative;
-	font-size: 20px;
+	font-size: 28px;
 	text-decoration: none;
-}
-
-.subtitle {
-	font-weight: bold;
-	color: gray;
-	position: relative;
-	font-size: 15px;
 }
 
 .nav ul {
@@ -46,17 +41,15 @@
 
 }
 
-.nav{
+.nav {
 	float: right;
 }
 
-.nav a:hover, .current a{
+.nav a:hover, .current a {
 	border-top: 2px solid white;
 	padding-top: 2px;
 	background-color: rgba(255, 255, 255, 0.2);
 }
-
-
 
 a {
 	color: white;
@@ -65,7 +58,6 @@ a {
 }
 
 
-header a{
+header a {
 		letter-spacing: 5px;
 }
-

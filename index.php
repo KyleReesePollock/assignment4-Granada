@@ -7,15 +7,15 @@
 		<!-- navigation bar-->
 
 		<section class = "banner">
-            <?php include "inc/header.inc"; ?>
-            <?php include "inc/nav.inc"; ?>
-        </section>
+      <?php include "inc/header.inc"; ?>
+      <?php include "inc/nav.inc"; ?>
+    </section>
 
 		<!--Slider-->
 
 		<div class= "container">
 
-		<article> <!-- Article-->
+		<article class="contrast"> <!-- Article-->
 
 			<h2>Xiao Cheng</h2>
 				<figure>

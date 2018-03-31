@@ -1,7 +1,7 @@
 <!-- include html top for links and doctype -->
 <?php include "inc/html-top.inc";?>
 
-    <body>
+    <body class="contrast">
         <!--header-->
 
         <!-- navigation bar-->
@@ -13,7 +13,7 @@
 
         <div class = "container">
 
-        <article> <!-- Article-->
+        <article class="contrast"> <!-- Article-->
              <h2>Xiao Cheng - Computer Science</h2>
              <!-- pic of Xiao -->
                 <div class="info">
@@ -52,7 +52,7 @@
         </article>
 
         <!--Aside-->
-        <aside>
+        <aside class="contrast">
             <h3>Miscellaneous</h3>
                 <p>I am originally from Changsha, Hu'nan, China, a city that is famous for its spicy food. But I spent most of my life in Guangzhou, Canton. It is where the cantonese dim sum comes from. I have a very strong emotional attachment to Guangzhou and I feel very proud every time I talk about it. There is a slang in Chinese called "Shi Zai Guang Zhou", which means that "If you want the greatest food, come to Guangzhou". There is no place I feel more like home in the world. (P.S. it never snows in Guangzhou. Most of the time during winter, the average temperature is 59 Fahrenheit. So you could imagine how hard it is for me to survive in Rochester.)</p>
 

@@ -1,0 +1,16 @@
+
+body.contrast {
+	background: linear-gradient(to top, #ABA6BF 0%, #595775 100%);
+}
+
+.contrast {
+  font-family: "Roboto", helvetica, sans-serif;
+}
+
+.contrast h2 {
+  font-family: "Ubuntu", helvetica, sans-serif;
+}
+
+.contrast h3 {
+  font-family: "Ubuntu", helvetica, sans-serif;
+}

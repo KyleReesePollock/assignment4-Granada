@@ -1,11 +1,10 @@
 <header>
 
-    <a href="index.php"></a>
+    <a href="index.php"><img class="logo" src="images/logo.png" alt="Logo"></a>
 		<div>
 			<a href="index.php">
 				<h2 class="title">Economics or Computer Science?</h2>
 			</a>
-			<div class="subtitle">CSC 174 - Advanced Web Design and Development</div>
 		</div>
 
 </header>

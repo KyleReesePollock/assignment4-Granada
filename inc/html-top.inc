@@ -11,4 +11,12 @@
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/navigation.css">
 	<link rel="stylesheet" href="css/banner.css">
+	<link rel="stylesheet" href="css/contrast.css">
+
+	<!-- Custom Fonts -->
+	<link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Ubuntu">
+	<link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Roboto">
+
 </head>
