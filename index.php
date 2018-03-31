@@ -17,7 +17,7 @@
 
 		<article class="contrast"> <!-- Article-->
 
-			<h2>Xiao Cheng</h2>
+			<h2><span class="contrast-color">Xiao Cheng</span></h2>
 				<figure>
 					<img src="images/xiao.jpg" alt="Xiao Cheng">
 					<figcaption>Xiao Cheng</figcaption>

@@ -14,7 +14,7 @@
         <div class = "container">
 
         <article class="contrast"> <!-- Article-->
-             <h2>Xiao Cheng - Computer Science</h2>
+             <h2>Xiao Cheng - <span class="contrast-color">Computer Science</span></h2>
              <!-- pic of Xiao -->
                 <div class="info">
                     <!--no bullet points, just a list next to the picture-->

@@ -14,3 +14,7 @@ body.contrast {
 .contrast h3 {
   font-family: "Ubuntu", helvetica, sans-serif;
 }
+
+span.contrast-color {
+  color: #595775;;
+}
