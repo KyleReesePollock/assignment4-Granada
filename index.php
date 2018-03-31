@@ -57,5 +57,4 @@
 		</body>
 
 		<!--Include footer and js-->
-	</body>
 </html>

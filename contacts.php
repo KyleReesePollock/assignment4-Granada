@@ -26,7 +26,7 @@
 					<fieldset>
 						<legend><h3>What is your major? </h3></legend>
 							<input type="radio" name="major" id="Economics" value="Economics">
-							<label for="Ecoonomics">Economics?</label>
+							<label for="Economics">Economics?</label>
 							<input type="radio" name="major" id="ComputerScience" value="ComputerScience">
 							<label for="ComputerScience">Computer Science?</label>
 							<input type="radio" name="major" id="Neither" value="Neither">
@@ -43,5 +43,6 @@
 		<?php include "inc/footer.inc"; ?>
 
 			</div>
+		<?php include "inc/scripts.inc";?>
 	</body>
 </html>

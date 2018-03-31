@@ -39,7 +39,7 @@
 				<h2>Thank You!</h2>
 
 				<p>To go back, click:</p>
-				<a class="Home Page" href = "index.php">Here</a></p>
+				<a class="Home Page" href = "index.php">Here</a>
 
 			</section>
 
