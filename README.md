@@ -3,7 +3,7 @@
 ### Design: Kyle Pollock
 ### Code: Jonathan Hirsch
 
-### Website url: http://urcsc174.org/assignment04/Granada/
+### Website url: http://urcsc174.org/assignment04/assignment4-Granada/
 ### Github url: https://github.com/isaiahnkpule/assignment4-Granada
 
 ## IA Colophon:
